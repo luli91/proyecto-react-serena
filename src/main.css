@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz@10;48&display=swap');
+
+
+.nav{
+    background-color: #FFE2EC;
+}
+.logoSerena{
+    height: 80px;
+    width: 160px;
+}
+
+.botonMenu{
+font-size: 20px;
+font-family: 'Bricolage Grotesque', sans-serif;
+}
+.items{
+    font-family: 'Bricolage Grotesque', sans-serif;
+}
+.title{
+    background-color: #EDCDBB;
+    text-align: center;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    font-family: 'Bricolage Grotesque', sans-serif;
+}
+
+.cartNumber{
+    font-family:'Bricolage Grotesque', sans-serif;
+}
+.botonMas {
+    border: solid 1px black;
+    width: 30px;
+    height: 30px;
+}
+.botonMenos {
+    border: solid 1px black;
+    width: 30px;
+    height: 30px;
+    margin:10px;
+}
+.DescriptionProd {
+    font-size:17px;
+    font-weight: 600;
+}
+
+.PriceProd{
+    font-size:20px;
+    font-weight: 600;
+}
